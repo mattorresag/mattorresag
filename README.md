@@ -9,7 +9,7 @@
 <a href="https://aeskins-website.vercel.app/">Aeskins Institutional Page</a>
 <a href="https://plantonei-front.vercel.app/">Plantonei (in progress)</a>
 <a href="https://www.hrskins.gg/">HRSkins - CSGO Skins Marketplace</a>
-<a href="https://www.bakerytech.com.br/">BakeryTech Instituional Page</a>
+<a href="https://www.bakerytech.com.br/">BakeryTech Institutional Page</a>
 <p>And more! Send me an e-mail if you'd like to budget a project :)</p>
     
 <div style="display: inline_block">
