@@ -2,6 +2,15 @@
 <div style="display: flex">
 <h1>Hi there!</h1>
 <p>I am Matheus, a passionate software developer and tech enthusiast. I currently work as Tech Lead for BakeryTech. Formerly a Front-end developer working with NextJS/React/TypeScript, I've managed to migrate to fullstack by learning Django as my primary back-end language.</p>
+<br>
+<div style="display: flex; flex-direction:column; gap:16px;">
+<p>Some websites that I've made:</p>
+<a href="https://fretatech-front.vercel.app/">Fretatech Vercel Demo (in progress)</a>
+<a href="https://aeskins-website.vercel.app/">Aeskins Institutional Page</a>
+<a href="https://plantonei-front.vercel.app/">Plantonei (in progress)</a>
+<a href="https://www.hrskins.gg/">HRSkins - CSGO Skins Marketplace</a>
+<a href="https://www.bakerytech.com.br/">BakeryTech Instituional Page</a>
+<p>And more! Send me an e-mail if you'd like to budget a project :)</p>
     
 <div style="display: inline_block">
   <br>
