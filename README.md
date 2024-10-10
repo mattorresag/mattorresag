@@ -1,10 +1,10 @@
 <div style="display: flex; flex-direction: column; gap: 20px;">
 <div style="display: flex">
 <h1>Hi there!</h1>
-<p>I am Matheus, a passionate software developer and tech enthusiast. I currently work as Tech Lead for BakeryTech. Formerly a Front-end developer working with NextJS/React/TypeScript, I've managed to migrate to fullstack by learning Django as my primary back-end language.</p>
+<p>I am Matheus, a passionate software developer and tech enthusiast. I currently work as a Full-stack developer at Yooga. Formerly a Front-end developer working with Next.js/React/TypeScript, I've managed to migrate to fullstack by learning Node.js as my primary back-end language.</p>
 <br>
 <div style="display: flex; flex-direction:column; gap:16px;">
-<p>This is my portfolio: <a href="https://matheusftagdev.vercel.app/">Matheus Dev</a></p>
+<p>This is my portfolio: <a href="https://matheustorres.dev">Matheus Torres</a></p>
 <p>Send me an e-mail if you'd like to budget a project :)</p>
     
 <div style="display: inline_block">
