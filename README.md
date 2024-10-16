@@ -1,33 +1,38 @@
-<div style="display: flex; flex-direction: column; gap: 20px;">
-<div style="display: flex">
-<h1>Hi there!</h1>
-<p>I am Matheus, a passionate software developer and tech enthusiast. I currently work as a Full-stack developer at Yooga. Formerly a Front-end developer working with Next.js/React/TypeScript, I've managed to migrate to fullstack by learning Node.js as my primary back-end language.</p>
-<br>
-<div style="display: flex; flex-direction:column; gap:16px;">
-<p>This is my portfolio: <a href="https://matheustorres.dev">Matheus Torres</a></p>
-<p>Send me an e-mail if you'd like to budget a project :)</p>
-    
-<div style="display: inline_block">
-  <br>
+
+
+
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
-  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-plain.svg"/>
-  <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg"/>
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+
   
-</div>
- <br>
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mattorresag&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattorresag&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
  
-<div> 
-   <a href="https://instagram.com/matheusftag" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusftaguiar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
-  <a href="https://www.linkedin.com/in/matheusftaguiar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,postman,styledcomponents,vercel,vite,bootstrap,postgres,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=mattorresag&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
  
 
-</div>
-</div>
+
+
+
+
+
+ 
+  
+  
+
+  
