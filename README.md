@@ -1,7 +1,7 @@
 
 <h1>Hi there!</h1>
 
-This is my portfolio: <a href="https://matheustorres.dev/ target="_blank">https://matheustorres.dev/</a>
+This is my personal website: <a href="https://matheustorres.dev/" target="_blank">https://matheustorres.dev/</a>
 
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
